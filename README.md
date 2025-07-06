@@ -50,7 +50,7 @@
 
 ---
 
-### 💼 Concepts studied 
+### 💼 Studied concepts 
 - Distributed Systems  
 - Operating Systems (Linux Shell, Bash scripting)  
 - EJB (Java EE)  
