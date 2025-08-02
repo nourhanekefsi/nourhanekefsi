@@ -51,8 +51,11 @@
 ---
 
 ### 💼 Studied concepts 
+- Natural language processing
+- Computer vision
+- Machine learning
+- Deep learning
+- Data mining 
 - Distributed Systems  
-- Operating Systems (Linux Shell, Bash scripting)  
-- EJB (Java EE)  
-- Software Engineering & System Design  
-- Data Mining & Data Analysis  
+- Parallel computing 
+- Software Engineering & Information systems 
